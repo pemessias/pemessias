@@ -1,8 +1,8 @@
-<h1 align="center">Fala, devs! 👋🏼</h1>
+<h1 align="left">Fala, devs! 👋🏼</h1>
 
 ###
 
-<p align="center">Me chamo Pedro e sou residente na cidade de São Paulo.</p>
+<p align="left">Me chamo Pedro e sou residente na cidade de São Paulo.</p>
 
 ###
 
